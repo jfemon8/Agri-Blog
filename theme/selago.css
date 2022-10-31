@@ -1,0 +1,86 @@
+ /* Selago header color */
+ .headersection {
+    background: #FFF3FF none repeat scroll 0 0;
+    }
+    .logo h2 {
+    color: #0000;
+    }
+    .logo h2 {
+        color: #ffc78b;
+        text-align: center;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        }
+        .logo h2 {
+        position: relative;
+        font-family: "Avenir Next", sans-serif;
+        font-weight: 1000;
+        font-size: 28px;
+        font-style: italic;
+        letter-spacing: 0.05em;
+        display: inline-block;
+        }
+    .logo p {
+    color: #000;
+    }
+    .icon a {
+    background: #5BCD7D none repeat scroll 0 0;
+    }
+    .searchbtn input[type="text"] {
+    border: 1px solid #bdfff9;
+    width: 200px;
+    background: #FFC78B;
+    }
+    .searchbtn input[type="submit"] {
+    border: 1px solid #5BCE00;
+    }
+    input[type="submit"] {
+    background: #ff8400 none repeat scroll 0 0;
+    border: 1px solid #5BCE00;
+    }
+    .searchbtn input[type="submit"]:hover{
+	background: #5b9cf6 none repeat scroll 0 0;
+	border: 1px solid #5b0cf6;
+	color:#fff;
+    }
+    .navsection, .footersection {
+    background: none repeat scroll 0 0 #FFC78B;
+    }
+    .navsection ul li {
+    border-left: 1px solid #FFF3FF;
+    border-right: 1px solid #FFF3FF;
+    }
+    .samepost h2 a, .about h2 {
+    color: #EF3C5F;
+    }
+    .maincontent {
+    background: #FFF3FF none repeat scroll 0 0;
+    }
+    .samepost img {
+    border: 2px solid #F8E194;
+    background: #fff none repeat scroll 0 0;
+    }
+    .contentsection {
+    background: #F7F7F7 none repeat scroll 0 0;
+    border: 1px solid #F8E194;
+    }
+    .sidebar {
+    background: #FFF3FF none repeat scroll 0 0;
+    }
+    .samesidebar h2 {
+    background: #FFC78B none repeat scroll 0 0;
+    }
+    .footermenu ul li a {
+    color: #7B4C3C;
+    }
+    .pagination a {
+    background: #FFC78B none repeat scroll 0 0;
+    }
+    .relatedpost h2 {
+    background: #FFC78B none repeat scroll 0 0;
+    }
+    .readmore a {
+    color: #185C1F; 
+    }
+    
